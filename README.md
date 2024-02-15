@@ -12,7 +12,7 @@ repositories {
 }
 
 dependecies {
-    implementation "com.github.unilock:discordlib:1.0.0"
+    implementation "com.github.unilock:discordlib:${project.discordlib_version}"
 }
 ```
 
